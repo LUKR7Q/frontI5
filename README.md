@@ -25,7 +25,7 @@
 ### 📸1. 실시간 AI 카메라 모니터링 및 제어
 
 <center>
-    <img src="./img/pic2.png" />
+    <img src="./src/assets/img/dashboards/camera.gif" />
 </center>
 
 ```sh
@@ -47,7 +47,7 @@
 ### 🔧3. 상품목록 테이블 수정 및 삭제 가능
 
 <center>
-    <img src="./img/pic1.png" />
+    <img src="./src/assets/img/dashboards/db2.gif" />
 </center>
 
 ```sh
