@@ -33,18 +33,8 @@
 ``````
 <br>
 
-### 💻2. 장비 상태 모니터링
 
-<center>
-    <img src="./img/pic1.png" />
-</center>
-
-```sh
-장비가 ON이면 장비 상태와 맞게 
-``````
-<br>
-
-### 🔧3. 상품목록 테이블 수정 및 삭제 가능
+### 🔧2. 상품목록 테이블 수정 및 삭제 가능
 
 <center>
     <img src="./src/assets/img/dashboards/db2.gif" />
@@ -55,25 +45,13 @@ DB에 저장된 상품목록을 대시보드에서 수정 가능
 ``````
 <br>
 
-### 🔎4. 창고상태 시각화
+### 🔎3. 각종기능
 
 <center>
-    <img src="./img/pic1.png" />
+    <img src="./src/assets/img/dashboards/webdescrip.gif" />
 </center>
 
 ```sh
 창고 상태를 보다 보다 쉽게 시각화와 관리 가능
 ``````
 <br>
-
-### 👎5. 불량품 정리 가능
-
-<center>
-    <img src="./img/pic1.png" />
-</center>
-
-```sh
-불량품 개수에 있는 👎버튼을 누르면 검사가능
-``````
-<br>
-
